@@ -13,11 +13,11 @@ header {
 	overflow: hidden;
 	margin: 0 auto;
 	width: 80%;
-	border: 1px solid white;	
+		
 }
 
 .logo {
-		border: 1px solid red;
+		
 		width: 17%;	
 		float:left;
 }
@@ -27,7 +27,7 @@ header {
 }
 
 .menu {
-		border: 1px solid red;
+		
 		width: 70%;	
 		float:right;
 		margin-top: 30px;
